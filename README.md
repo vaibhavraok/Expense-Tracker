@@ -36,4 +36,4 @@ A simple, user-friendly web application to track your daily expenses. Built with
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/chalana05/Personal-Expense-Tracker
+   git clone https://github.com/vaibhavraok/Expense-Tracker
